@@ -1,6 +1,8 @@
 # C64 character bitmap with colorful bobs
 This is a character bitmap with 128x128 resolution, and
 I move some colorful bob's on it.
+![Screenshot](https://github.com/gelleicsaba/charmap/blob/master/Screenshot_1.jpg?raw=true)
+
 
 Start with this sys command
 ```
