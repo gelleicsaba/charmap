@@ -1,0 +1,13 @@
+Output dir: P:\commodore\charmap\bin
+parsing
+flex pass 1
+flex pass 2
+Output pass
+Writing prg file: charmap.prg
+
+Memory Map
+----------
+Default-segment:
+  $c900-$cee8 Unnamed
+
+Writing Symbol file: charmap.sym
