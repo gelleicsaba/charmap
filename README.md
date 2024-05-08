@@ -1,4 +1,7 @@
-# C64 character bitmap with colorful blobs
+# C64 character bitmap with colorful bobs
+This is a character bitmap with 128x128 resolution, and
+I move some colorful bob's on it.
+
 Start with this sys command
 ```
 SYS 51456
@@ -7,7 +10,7 @@ SYS 51456
 
 ## Plotter graphics with 2D coordination system
 
-## Draw blobs with 16 colors
+## Draw bobs with 16 colors
 
 ## Circular motion , using sinus table
 The sintable was made by python.

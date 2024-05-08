@@ -15,7 +15,7 @@ Roberto Muscedere, June Tate-Gans, Pablo Roldan.
 This is free software with ABSOLUTELY NO WARRANTY.
 See the "About VICE" command for more info.
  
-random seed was: 0x663b554d
+random seed was: 0x663b584c
 command line was: c:\commodore\vice\bin\x64sc.exe -logfile charmap.prg-vice.log charmap.prg
 VICE system file directory: c:\commodore\vice\bin\...
 Loading system file `c:\commodore\vice\bin\..\C64\kernal-901227-03.bin'.
@@ -83,7 +83,7 @@ CART: 'charmap.prg' is not a valid CRT file.
 AUTOSTART: Loading PRG file `charmap.prg' with autostart disk image.
 AUTOSTART: Resetting drive 8
 AUTOSTART: Resetting the machine to autostart 'CHARMAP'
-VIC-II: VSP Bug: safe channels are: 2357. Emulation of memory corruption is disabled.
+VIC-II: VSP Bug: safe channels are: 246. Emulation of memory corruption is disabled.
 AUTOSTART: Turning Warp mode on.
 AUTOSTART: `charmap.prg' recognized as program/p00 file.
 Main CPU: RESET.
@@ -92,7 +92,7 @@ reSID: MOS8580, filter on, sampling rate 48000Hz - resampling, pass to 21600Hz
 Sync reset
 Unit 8: RESET.
 AUTOSTART: Loading program 'CHARMAP'
-AUTOSTART: Entered ROM at $e5cf
+AUTOSTART: Entered ROM at $e5cd
 AUTOSTART: Searching for ...
 AUTOSTART: Loading
 AUTOSTART: Entered ROM at $ea21
@@ -137,6 +137,6 @@ VICE thread initiating shutdown
 VICE thread is exiting
 VICE thread has been joined.
 Writing configuration file `C:\Users\Csaba\AppData\Roaming\vice\vice.ini'.
-VIC-II: VSP Bug: safe channels are: 1236. Emulation of memory corruption is disabled.
+VIC-II: VSP Bug: safe channels are: 036. Emulation of memory corruption is disabled.
 Sound: Closing device `dx'
 Hotkeys: shutting down.
